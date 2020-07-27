@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Shivaprasad"
+  avatar           : "bio-photo.jpg"
+  bio              : "Researcher in Ultrasonic Nondestructive testing"
+  location         : "Bristol,United Kingdom"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=IpPYWqsAAAAJ&hl=en"
+  email            : shiva.shridhara@bristol.ac.uk
+  researchgate     : "https://www.researchgate.net/profile/Shivaprasad_Shridhara_Bhat"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "prsdshiva"
   vine             :
   weibo            :
   xing             :
